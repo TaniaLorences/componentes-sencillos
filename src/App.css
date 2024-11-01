@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  background-color: rgb(23, 61, 71);
+  color: white;
+}
+
+input {
+  background-color: aliceblue;
+}
+
+body {
+  background-color: aliceblue;
+}
