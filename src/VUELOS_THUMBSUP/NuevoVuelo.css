@@ -1,0 +1,11 @@
+.formulario {
+    display: flex;
+    flex-direction: column; /* Apila los elementos verticalmente */
+  }
+  
+  .formulario input,
+  .formulario textarea,
+  .formulario select {
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    margin-bottom: 10px; /* Añade un margen inferior para separar los elementos */
+  }
