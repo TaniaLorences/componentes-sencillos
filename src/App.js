@@ -1,15 +1,12 @@
-import './App.css';
-import React from 'react';
-import CatalogoMio from './Carrito-Catalogo-Mio/CatalogoMio';
-
-function App() {
+import React from "react";
+import "./App.css";
+import Vuelos from "./VUELOS_ANIDADOS_PRUEBA/Vuelos";
+const App = () => {
   return (
     <div>
-      <CatalogoMio />
+      <Vuelos/>
     </div>
   );
-}
+};
 
 export default App;
-
-

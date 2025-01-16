@@ -1,0 +1,44 @@
+.flight-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.flight-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.flight-list li span {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.flight-number {
+    font-weight: bold;
+}
+
+.flight-date {
+    color: #888;
+}
+.container {
+    display: flex;
+  }
+  .item-left {
+    float: left;
+    width: 40%;
+  }
+  .item-right{
+    float: right;
+    width: 60%;
+  }
+  .bottomDiv
+  {
+    float: left;
+    width: 40%;
+    position:relative;
+    left:0;
+    float: left;
+    
+  }

@@ -1,0 +1,36 @@
+[
+{ "categoria": "Grande",
+"productos": 
+[
+  {
+    "id": 1,
+    "nombre": "Árbol de Navidad artificial",
+    "descripcion": "Árbol de Navidad artificial de 1.80 metros con luces LED",
+    "precio": 99.99
+  },
+  {
+    "id": 2,
+    "nombre": "Guirnalda luminosa",
+    "descripcion": "Guirnalda luminosa con 100 luces LED de colores",
+    "precio": 19.99
+  }
+]
+},
+{ "categoria": "Pequeña",
+"productos": 
+[
+{
+    "id": 3,
+    "nombre": "Bola de Navidad personalizada",
+    "descripcion": "Bola de Navidad de cristal transparente con diseño personalizado",
+    "precio": 12.99
+  },
+  {
+    "id": 4,
+    "nombre": "Calcetín navideño gigante",
+    "descripcion": "Calcetín navideño gigante para colgar en la chimenea, ideal para regalos grandes",
+    "precio": 24.99
+  }
+]
+}
+]
